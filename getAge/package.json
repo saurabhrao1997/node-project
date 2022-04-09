@@ -1,0 +1,15 @@
+{
+  "name": "saurabh",
+  "version": "1.0.0",
+  "description": "node work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "author": "saurabh",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
